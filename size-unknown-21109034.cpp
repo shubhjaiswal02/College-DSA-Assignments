@@ -1,6 +1,6 @@
 #include <iostream>         //Name :  Shubh Jaiswal
 using namespace std;        //SID : 21109034
-                            //Branch : Production and Industrial
+                            //Branch :  Production and Industrial
 
 /*
 QUESTION:How would you search for an element in an array/list whose size is unknown?
